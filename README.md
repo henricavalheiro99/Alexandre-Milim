@@ -26,5 +26,4 @@
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
 </div>
-  
-![snake gif](https://github.com/Alexandre-Milim/Alexandre-Milim/blob/output/github-contribution-grid-snake.svg)
+ 

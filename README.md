@@ -19,8 +19,8 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto: work.alexandremilim15@gmail.com">
+      <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">

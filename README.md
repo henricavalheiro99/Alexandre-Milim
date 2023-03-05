@@ -6,6 +6,10 @@
 
 ## Milim Aqui!
 
+ <td>
+          <img src="https://media.tenor.com/cb41qFpokFUAAAAd/lula-maromba.gif" width="180px" height="150px">
+      </td>
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Milim&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -33,4 +37,3 @@
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
 </div>
- 
